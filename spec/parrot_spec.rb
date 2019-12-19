@@ -24,6 +24,7 @@ describe '#parrot' do
   end
 end
 
-def parrot (word)
-
+def parrot (phrase)
+  puts "#{phrase}"
+  return ""
 end
