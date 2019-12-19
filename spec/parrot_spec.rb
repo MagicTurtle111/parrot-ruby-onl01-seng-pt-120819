@@ -26,5 +26,5 @@ end
 
 def parrot (phrase)
   puts "#{phrase}"
-  return ""
+  return "Squawk!"
 end
