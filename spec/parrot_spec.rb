@@ -26,5 +26,6 @@ end
 
 def parrot (word = "Squawk!")
   puts "#{word}"
+  return "Pretty bird!"
   return "Squawk!"
 end
